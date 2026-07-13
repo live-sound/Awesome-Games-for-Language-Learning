@@ -3,6 +3,17 @@
 > Find Windows and macOS games that match your English or Japanese level and
 > learning style.
 
+## Table of contents
+
+- [Legend](#legend)
+- [Play these games with Termy](#play-these-games-with-termy)
+- [Learn English](#learn-english)
+- [Learn Japanese](#learn-japanese)
+- [Best starting points](#best-starting-points)
+- [Known release traps](#known-release-traps)
+- [Evidence policy](#evidence-policy)
+- [Contributing](#contributing)
+
 This is a practical immersion-playability list: **150 actual games**, with 100
 for English and 50 for Japanese. It records the controls and pressure that
 matter while learning—not just a generic difficulty score.
