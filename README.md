@@ -54,8 +54,6 @@ or JLPT rating.
 
 ## Play these games with Termy
 
-<a href="https://termy.ai/"><img src="https://termy.ai/img/termy.webp" alt="Termy" width="72"></a>
-
 [Termy](https://termy.ai/) is a language-learning companion for Windows and
 macOS. Use it over any game in this list to:
 
@@ -69,6 +67,7 @@ that fits your level and preferred play style; Termy helps when you encounter
 language you do not yet understand.
 
 **[Get Termy for Windows or macOS](https://termy.ai/)**
+
 
 ## Learn English
 
