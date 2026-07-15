@@ -1,4 +1,4 @@
-(https://termy.ai/img/cta-games.webp)(https://termy.ai)
+[![Termy the sloth playing a game](https://termy.ai/img/cta-games.webp 'Termy the sloth playing a game')](https://termy.ai)
 
 # Awesome Games for Language Learning
 
