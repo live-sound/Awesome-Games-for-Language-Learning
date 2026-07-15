@@ -1,10 +1,10 @@
-# Awesome Games for Language Learning
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 <p align="center">
   <img src="https://termy.ai/img/cta-games.webp" alt="Termy the sloth playing a game" width="560">
 </p>
+
+# Awesome Games for Language Learning
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Find Windows and macOS games that match your English, Spanish, German,
 > French, or Japanese level and learning style.
