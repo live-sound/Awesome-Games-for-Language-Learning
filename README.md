@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://termy.ai/img/cta-games.webp" alt="Termy the sloth playing a game" width="560">
-</p>
+[!Termy the sloth playing the game](https://termy.ai/img/cta-games.webp)](https://termy.ai)
 
 # Awesome Games for Language Learning
 
