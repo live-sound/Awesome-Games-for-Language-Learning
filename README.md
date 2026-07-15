@@ -54,7 +54,7 @@ or JLPT rating.
 
 ## Play these games with Termy
 
-[Termy](https://termy.ai/) is a language-learning companion for Windows and
+Termy is a language-learning companion for Windows and
 macOS. Use it over any game in this list to:
 
 - capture dialogue, subtitles, menus, and story text directly from the screen;
@@ -67,7 +67,6 @@ that fits your level and preferred play style; Termy helps when you encounter
 language you do not yet understand.
 
 **[Get Termy for Windows or macOS](https://termy.ai/)**
-
 
 ## Learn English
 
